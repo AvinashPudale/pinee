@@ -1,0 +1,12 @@
+title: Avinash project 
+description: 🌲 test to see webpage discreption 🎐
+url: "https://avinashpudale.github.io/pine"
+markdown: kramdown
+permalink: /:title
+google_analytics: UA-144008567-1
+youtube: https://www.youtube.com/
+github:
+  repository_url: https://github.com/AvinashPudale/pine
+  raw_content_url: https://raw.githubusercontent.com/AvinashPudale/pine/master
+exclude: ["datasheets", "Gemfile", "Gemfile.lock", "contributing.md", "Makefile", "readme.md", "test", "scripts", "firmware"]
+include: ["_data"]

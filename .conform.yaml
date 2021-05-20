@@ -1,0 +1,13 @@
+policies:
+  - type: commit
+    spec:
+      conventional:
+        types:
+          - "ci"
+          - "build"
+          - "chore"
+          - "docs"
+          - "style"
+          - "refactor"
+          - "perf"
+          - "test"
