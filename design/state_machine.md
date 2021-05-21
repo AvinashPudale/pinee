@@ -22,7 +22,7 @@ D-->|Yes|E(Turn OFF aircon);
 D-->|No|G;
 E-->F(STOP);
 
-graph TD
+graph TD;
 A[Christmas] -->|Get money| B(Go shopping)
 B --> C{Let me think}
 C -->|One| D[Laptop]
