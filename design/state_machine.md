@@ -21,3 +21,11 @@ C-->|No|B;
 D-->|Yes|E(Turn OFF aircon);
 D-->|No|G;
 E-->F(STOP);
+
+graph TD
+A[Christmas] -->|Get money| B(Go shopping)
+B --> C{Let me think}
+C -->|One| D[Laptop]
+C -->|Two| E[iPhone]
+C -->|Three| F[fa:fa-car Car]
+
