@@ -16,6 +16,13 @@ software:
   - name: WebUSB
     code: webusb
 ---
+```mermaid!
+pie title Pets adopted by volunteers
+  "Dogs" : 386
+  "Cats" : 85
+  "Rats" : 35
+```
+
 <section class="section is-small">
 <div class="container">
   <h2 class="title is-1">Getting Started</h2>
