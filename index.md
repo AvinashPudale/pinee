@@ -24,6 +24,12 @@ pie title Pets adopted by volunteers
 "Rats" : 35
 @endmermaid
 
+<div class="mermaid">
+sequenceDiagram
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
+</div>
+
 <section class="section is-small">
 <div class="container">
   <h2 class="title is-1">Getting Started</h2>
