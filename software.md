@@ -40,7 +40,7 @@ new Chart("myChart", {
     }]
   },
   options: {
-    legend: {display: false},
+    legend: {display: true},
     scales: {
       yAxes: [{ticks: {min: 6, max:16}}],
     }
