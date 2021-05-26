@@ -50,10 +50,6 @@ new Chart("myChart", {
     }]
   },
   options: 
-  {
-        layout:
-            padding: 20
-        }
          {
     legend: {display: false},
            {
