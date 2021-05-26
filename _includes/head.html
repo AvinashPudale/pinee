@@ -14,6 +14,15 @@
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/frappe-gantt/0.3.0/frappe-gantt.css">
   <style> .gantt-container { overflow: hidden; }</style>
   {% endif %}
+
+    <!-- Mermaid 8.8.2 -->
+    <!-- if you have any issue check https://github.com/mermaid-js/mermaid/ -->
+    {% if site.mermaid %}
+    <!-- <script src=”https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.8.2/mermaid.min.js" onload="mermaid.initialize({startOnLoad:true});"></script> -->
+    <script src="{{ '/js/vendor/mermaid.min.js' | relative_url }}" onload="mermaid.initialize({startOnLoad:true});"></script>
+    {% endif %}
+
+
   <style>
     .highlight { max-height: 500px; overflow: auto; margin: 24px 0;}
     .handwriting { font-family: 'Schoolbell', cursive; transform: rotate(-5deg); margin: 0 0.5em; line-height: 1; }
