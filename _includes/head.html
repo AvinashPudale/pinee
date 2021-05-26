@@ -22,7 +22,9 @@
     <script src="{{ '/js/vendor/mermaid.min.js' | relative_url }}" onload="mermaid.initialize({startOnLoad:true});"></script>
     {% endif %}
 
-
+ {% if site.chartjs %}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+    {% endif %}
   <style>
     .highlight { max-height: 500px; overflow: auto; margin: 24px 0;}
     .handwriting { font-family: 'Schoolbell', cursive; transform: rotate(-5deg); margin: 0 0.5em; line-height: 1; }
