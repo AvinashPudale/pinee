@@ -51,11 +51,18 @@ new Chart("myChart", {
   },
   options: {
     legend: {display: false},
+    {
+        layout:
+            padding: 40
+        }
     scales: {
       xAxes: [{ticks: {min: 40, max:160}}],
       yAxes: [{ticks: {min: 6, max:16}}],
     }
   }
+  
+ 
+  
 });
 </script>
 
