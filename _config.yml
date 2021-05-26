@@ -11,3 +11,4 @@ github:
 exclude: ["datasheets", "Gemfile", "Gemfile.lock", "contributing.md", "Makefile", "readme.md", "test", "scripts", "firmware"]
 include: ["_data"]
 mermaid: true  
+chartjs: true
