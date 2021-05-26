@@ -49,20 +49,19 @@ new Chart("myChart", {
       data: xyValues
     }]
   },
-  options: {
-    legend: {display: false},
-    {
+  options: 
+  {
         layout:
-            padding: 40
+            padding: 20
         }
-    scales: {
+         {
+    legend: {display: false},
+           {
+   scales: {
       xAxes: [{ticks: {min: 40, max:160}}],
       yAxes: [{ticks: {min: 6, max:16}}],
     }
   }
-  
- 
-  
 });
 </script>
 
