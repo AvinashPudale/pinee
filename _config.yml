@@ -10,3 +10,4 @@ github:
   raw_content_url: https://raw.githubusercontent.com/AvinashPudale/pinee/master
 exclude: ["datasheets", "Gemfile", "Gemfile.lock", "contributing.md", "Makefile", "readme.md", "test", "scripts", "firmware"]
 include: ["_data"]
+mermaid: true  
