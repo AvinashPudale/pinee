@@ -44,8 +44,6 @@ new Chart("myChart", {
     scales: {
       yAxes: [{ticks: {min: 6, max:16}}],
     }
-    padding: {
-                left: 5
-  }
+   
 });
 </script>
