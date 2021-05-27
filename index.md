@@ -17,17 +17,18 @@ software:
     code: webusb
 ---
 <style>
- .mermaid { 
+ .a { 
   margin: auto;
   }
 </style>
+<div class="a">
  <div class="mermaid">
   sequenceDiagram
     Alice->>John: Hello John, how are you?
     John-->>Alice: Great!
     
 </div>
-
+</div>
  <div class="mermaid"> 
  graph LR
     A --> B
