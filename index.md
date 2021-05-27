@@ -16,15 +16,7 @@ software:
   - name: WebUSB
     code: webusb
 ---
-<style>
-.mermaid{
-  background-color: tomato;
-  color: white;
-  border: 2px solid black;
-  margin: 20px;
-  padding: 20px;
-}
-</style>
+
 
 
 <div class="mermaid">
