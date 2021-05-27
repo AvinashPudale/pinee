@@ -16,7 +16,9 @@ software:
   - name: WebUSB
     code: webusb
 ---
-
+#mermaid {
+  align-self: center;
+}
 
 
 <div class="mermaid">
