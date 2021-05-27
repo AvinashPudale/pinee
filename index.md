@@ -25,8 +25,8 @@ software:
 
  <div class="mermaid"> 
  graph LR
-    A:::someclass --> B:::someclass
-    classDef someclass align-self:center;
+    A --> B
+  
  </div>
 
 <section class="section is-small">
