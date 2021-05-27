@@ -21,7 +21,12 @@ software:
     Alice->>John: Hello John, how are you?
     John-->>Alice: Great!
 </div>
-                           
+
+ <div class="mermaid"> 
+ graph LR
+    A:::someclass --> B
+    classDef someclass fill:#f96;
+ </div>
 
 <section class="section is-small">
 <div class="container">
