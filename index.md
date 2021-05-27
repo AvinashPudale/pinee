@@ -25,7 +25,7 @@ software:
  <div class="mermaid"> 
  graph LR
     A:::someclass --> B
-    classDef someclass fill:#f96;
+    classDef someclass fill:#f96,margin:50px;
  </div>
 
 <section class="section is-small">
