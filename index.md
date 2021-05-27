@@ -16,6 +16,11 @@ software:
   - name: WebUSB
     code: webusb
 ---
+<style>
+ .mermaid { 
+  margin: auto;
+  }
+</style>
  <div class="mermaid">
   sequenceDiagram
     Alice->>John: Hello John, how are you?
