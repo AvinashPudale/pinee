@@ -16,12 +16,12 @@ software:
   - name: WebUSB
     code: webusb
 ---
-
-                               <div class="mermaid">
-                                  sequenceDiagram
-                                  Alice->>John: Hello John, how are you?
-                                  John-->>Alice: Great!
-                              </div>
+    <div class="mermaid">
+     sequenceDiagram
+     Alice->>John: Hello John, how are you?
+      John-->>Alice: Great!
+    </div>
+                           
 
 <section class="section is-small">
 <div class="container">
