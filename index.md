@@ -16,10 +16,11 @@ software:
   - name: WebUSB
     code: webusb
 ---
+<style>
 #mermaid {
   align-self: center;
 }
-
+</style>
 
 <div class="mermaid">
 sequenceDiagram
