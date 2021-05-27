@@ -18,15 +18,15 @@ software:
 ---
  <div class="mermaid">
   sequenceDiagram
-     A:::Alice->>John: Hello John, how are you?
-    A:::John-->>Alice: Great!
-    classDef someclass align-self: center;
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
+    
 </div>
 
  <div class="mermaid"> 
  graph LR
-    A:::someclass --> B
-    classDef someclass align-self: center;
+    A:::someclass --> B:::someclass
+    classDef someclass align-self:center;
  </div>
 
 <section class="section is-small">
