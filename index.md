@@ -16,11 +16,7 @@ software:
   - name: WebUSB
     code: webusb
 ---
-<style>
- .a { 
-  margin: auto;
-  }
-</style>
+
 <div class="a">
  <div class="mermaid">
   sequenceDiagram
