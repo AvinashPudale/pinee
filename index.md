@@ -38,7 +38,17 @@ software:
     <span class="tag is-medium is-light">status</span>
     <span class="tag is-medium is-success">completed</span>
   </div>
+  <div class="mermaid">
+  sequenceDiagram
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
+</div>
 
+ <div class="mermaid"> 
+ graph LR
+    A --> B
+  
+ </div>
   <div class="tile is-ancestor">
     <div class="tile is-vertical is-12">
       <div class="tile">
