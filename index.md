@@ -16,14 +16,22 @@ software:
   - name: WebUSB
     code: webusb
 ---
+<style>
+.mermaid {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+</style>
 
-<div class="a">
+
  <div class="mermaid">
   sequenceDiagram
     Alice->>John: Hello John, how are you?
     John-->>Alice: Great!
-    
-</div>
 </div>
  <div class="mermaid"> 
  graph LR
