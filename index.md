@@ -16,21 +16,6 @@ software:
   - name: WebUSB
     code: webusb
 ---
-
-
-
- <div class="mermaid">
-  sequenceDiagram
-    Alice->>John: Hello John, how are you?
-    John-->>Alice: Great!
-</div>
-
- <div class="mermaid"> 
- graph LR
-    A --> B
-  
- </div>
-
 <section class="section is-small">
 <div class="container">
   <h2 class="title is-1">Getting Started</h2>
