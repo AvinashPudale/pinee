@@ -1,10 +1,10 @@
-title: Avinash project 
-description: 🌲 test to see webpage discreption 🎐
+title: Project title
+description: 🌲 Write Project discreption here 🎐
 url: "https://avinashpudale.github.io/pinee"
 markdown: kramdown
 permalink: /:title
 google_analytics: UA-144008567-1
-youtube: https://www.youtube.com/
+youtube: https://www.youtube.com/channel/UCNps43sqk-fVajiCcSHYEvw
 github:
   repository_url: https://github.com/AvinashPudale/pinee
   raw_content_url: https://raw.githubusercontent.com/AvinashPudale/pinee/master
