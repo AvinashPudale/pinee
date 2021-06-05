@@ -12,3 +12,4 @@ exclude: ["datasheets", "Gemfile", "Gemfile.lock", "contributing.md", "Makefile"
 include: ["_data"]
 mermaid: true  
 chartjs: true
+favicon: images/favicon.ico
