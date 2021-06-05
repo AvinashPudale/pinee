@@ -23,7 +23,7 @@ software:
     <span class="tag is-medium is-light">status</span>
     <span class="tag is-medium is-success">completed</span>
   </div>
-  <div class="mermaid">
+  <div class="mermaid is-medium">
   sequenceDiagram
     Alice->>John: Hello John, how are you?
     John-->>Alice: Great!
